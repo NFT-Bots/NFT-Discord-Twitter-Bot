@@ -5,8 +5,7 @@ let debug_enabled = false; if( process.env.DEBUG == "1" ) debug_enabled = true;
 let globals = {
     debug: debug_enabled,
     interval_time_ms: Number(process.env.INTERVAL_MS) || 10000,
-    search_back_min: Number(process.env.SEARCHBACK_MIN) || 20,
-    solanart_hostname: process.env.SOL_API_URL || "qzlsklfacc.medianetwork.cloud",
+    search_back_min: Number(process.env.SEARCHBACK_MIN) || 20
 }
 
 // axios headers
