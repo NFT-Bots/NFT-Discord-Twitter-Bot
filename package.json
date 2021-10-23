@@ -1,0 +1,37 @@
+{
+  "name": "nft-bots-demo",
+  "version": "1.0.0",
+  "description": "NFT Sales and Listings bot. Created by https://nft-bots.io",
+  "main": "app.js",
+  "dependencies": {
+    "axios": "^0.23.0",
+    "lodash": "^4.17.21",
+    "moment": "^2.29.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NFT-Bots/NFT-Bots-Demo.git"
+  },
+  "keywords": [
+    "NFTBot",
+    "Sales",
+    "Listings",
+    "Twitter",
+    "Solana",
+    "NFT",
+    "Magiceden",
+    "Solanart",
+    "DigitalEyes",
+    "Alpha.art"
+  ],
+  "author": "nft-bots.io",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NFT-Bots/NFT-Bots-Demo/issues"
+  },
+  "homepage": "https://github.com/NFT-Bots/NFT-Bots-Demo#readme"
+}
