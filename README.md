@@ -32,7 +32,7 @@
 This Repository was created by the NFT-Bot-Team and hosts some sample code on how to retrieve Sales and Listings Events from Opensea.
 The idea was to create a easy to read and understand code, which can be used to build your own Project around NFT Sales and Listings events.
 
-Please let us know if you need support with the code on through our homepage and our Discord Channel.
+Please let us know if you need support with the code on our homepage or Discord Channel.
 
 If you feel like not investing to much into self coding your NFT Sales and Listings bot for all the marketplaces out there feel free to get in
 touch with us on our [Homepage](https://nft-bots.io).
