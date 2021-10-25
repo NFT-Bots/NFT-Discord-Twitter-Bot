@@ -85,7 +85,7 @@ This is a short step by step tutorial on how you can get this code up and runnin
 
 ### Adopt the code to your needs
 * Checkout config.js to make your adjusments such as intervall time
-* Spot the "// here comes your code" in app.js, you can do anything with the Sales and Listings Events there
+* Spot the ```// here comes your code``` in app.js, you can do anything with the Sales and Listings Events there
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
