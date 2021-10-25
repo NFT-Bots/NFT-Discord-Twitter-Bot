@@ -107,9 +107,9 @@ Here is the Road of our NFT-Bot services, some of this code may be included in t
 - [x] Posting Sales events to Twitter
 - [x] Adding customization features for Discord appearance and Twitter message
 - [x] Support Solana NFT Marketplaces: solanart.io, magiceden.io, Alpha.art
-- [] Adding a floor price monitor
-- [] Adding collection stats to be displayed in Discord
-- [] Add Digital Eyes as a new marketplace
+- [ ] Adding a floor price monitor
+- [ ] Adding collection stats to be displayed in Discord
+- [ ] Add Digital Eyes as a new marketplace
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
