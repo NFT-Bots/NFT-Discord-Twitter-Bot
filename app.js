@@ -68,7 +68,7 @@ async function process_os_event(event, mode){
 // main loop
 setInterval(() => {
     // slug config to be checked
-    let sluglist = [ "thecryptomoms", "topdogbeachclub", "cryptocannabisclub", "punkscapes" ];
+    let sluglist = [ "mal-genesis", "mal-mutated", "mal-loot" ];
     for(const slug of sluglist) {
         // calculating unix timestamp to search Events since the given Timestamp
         let searchBack = config.globals.search_back_min;
@@ -79,4 +79,4 @@ setInterval(() => {
         get_os_events(slug, "listings")
     }
 // Intervall in ms
-}, Number(config.globals.interval_time_ms) );
+}, 10000(config.globals.interval_time_ms) );

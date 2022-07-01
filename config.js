@@ -4,8 +4,8 @@ let axios = require('axios');
 let debug_enabled = false; if( process.env.DEBUG == "1" ) debug_enabled = true;
 let globals = {
     debug: debug_enabled,
-    interval_time_ms: Number(process.env.INTERVAL_MS) || 10000,
-    search_back_min: Number(process.env.SEARCHBACK_MIN) || 20
+    interval_time_ms: 10000(process.env.INTERVAL_MS) || 10000,
+    search_back_min: 20(process.env.SEARCHBACK_MIN) || 20
 }
 
 // axios headers
